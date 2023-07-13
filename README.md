@@ -1,5 +1,5 @@
 # LogisticRegression
-Sample code on how to apply Logistics Regression
+Sample code on how to apply Logistics Regression.
 Logistic regression is a popular statistical model used for binary classification tasks. It is a supervised learning algorithm that predicts the probability of an instance belonging to a particular class. The output of logistic regression is a probability score between 0 and 1, which can then be converted into a binary decision using a predefined threshold.
 
 The theory behind logistic regression is based on the logistic function, also known as the sigmoid function. The sigmoid function is defined as:
